@@ -1,0 +1,9 @@
+@import url(./fonts.css);
+
+:root{
+    --font-family:"Montserrat";
+    --button-font:"Poppins";
+    --main-text-color:#544837;
+    --secondary-text-color: #2F281E;
+    --orange-color:#FF9900;
+}
